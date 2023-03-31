@@ -1,3 +1,36 @@
+Title
+
+<b>WASSERSTOFF ASSIGNMENT</b>
+<hr />
+
+TechStack
+<ul><li>React-Icons</li><li>React-leaflet</li><li>React-router-dom</li><li>AntDesign</li><li>AntDesignChart</li><li>AntDesignGraph</li><li>AntDesignBubblechart</li> </ul>
+
+Steps to Build
+
+<li>Create a folder using npx create-react-app & project name.</li>
+
+</li>Install the required libraries.</li>
+<li>After finishing code run the "npm start" command to run your code on localhost:3000.</li>
+
+Video Link
+
+<hr/>
+Hosted Link
+https://wasserstoff-assignment-fawn.vercel.app/
+
+<hr/>
+Approach
+
+After thoroughly reading through the complete figma, I separated it into components such as the navigation bar, side, Map, and information. The primary difficulty was implementing a map and graph in React. I searched Google for it and discovered React's Leaflet Library for Maps and Ant design's chart Library for Graph. It was challenging to pin a map with supplied names and positions in Figma, but after carefully reading the documentation in the leaflet and charts Library, I was able to achieve it. For the bubble chart, I'm using the Ant Design bubblechart and barchart library, but it wasn't precisely how it was in figma, so I made my own version.
+
+
+
+<hr/>
+<br/>
+<br/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
