@@ -210,6 +210,7 @@ const Sidebar = () => {
             marginBottom: "15px"
           }}
         >
+          
           <BarChart />
         </div>
       </div>
@@ -220,4 +221,3 @@ const Sidebar = () => {
 export default Sidebar;
 
 
-//DemoRingProgress1
