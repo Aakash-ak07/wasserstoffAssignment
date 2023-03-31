@@ -1,0 +1,307 @@
+{
+    "All users": 2431340,
+    "Total earning": 540549,
+    "sales": 1205677,
+    "purachase": 48430039,
+    "Active user": 92980,
+    "New users": 22652,
+  
+    "bar": {
+      "bar-chart": {
+        "id": "basic-bar-chart"
+      }
+    },
+  
+    "Country": {
+      "Chicago": 98320300,
+      "Berlin": 76541106,
+      "Giza": 10547980,
+      "Manaus": 12320300,
+      "Shanghai": 239570110,
+      "Queensland": 6097321
+    },
+  
+    "bottom Bar-chart": {
+      "title": "Weekly Sales",
+      "xAxisLabel": "Week",
+      "yAxisLabel": "Sales (in USD)",
+      "data": [
+        {
+          "label": "Week 1",
+          "value": 100
+        },
+        {
+          "label": "Week 2",
+          "value": 110
+        },
+        {
+          "label": "Week 3",
+          "value": 120
+        },
+        {
+          "label": "Week 4",
+          "value": 130
+        },
+        {
+          "label": "Week 5",
+          "value": 140
+        },
+        {
+          "label": "Week 6",
+          "value": 150
+        },
+        {
+          "label": "Week 7",
+          "value": 110
+        },
+        {
+          "label": "Week 8",
+          "value": 130
+        },
+        {
+          "label": "Week 9",
+          "value": 150
+        },
+        {
+          "label": "Week 10",
+          "value": 140
+        },
+        {
+          "label": "Week 11",
+          "value": 100
+        },
+        {
+          "label": "Week 12",
+          "value": 110
+        },
+        {
+          "label": "Week 13",
+          "value": 120
+        },
+        {
+          "label": "Week 14",
+          "value": 130
+        },
+        {
+          "label": "Week 15",
+          "value": 160
+        },
+        {
+          "label": "Week 16",
+          "value": 110
+        },
+        {
+          "label": "Week 17",
+          "value": 100
+        },
+        {
+          "label": "Week 18",
+          "value": 130
+        },
+        {
+          "label": "Week 19",
+          "value": 145
+        },
+        {
+          "label": "Week 20",
+          "value": 140
+        },
+        {
+          "label": "Week 21",
+          "value": 105
+        },
+        {
+          "label": "Week 22",
+          "value": 110
+        },
+        {
+          "label": "Week 23",
+          "value": 125
+        },
+        {
+          "label": "Week 24",
+          "value": 110
+        },
+        {
+          "label": "Week 25",
+          "value": 140
+        },
+        {
+          "label": "Week 26",
+          "value": 150
+        },
+        {
+          "label": "Week 27",
+          "value": 110
+        },
+        {
+          "label": "Week 28",
+          "value": 130
+        },
+        {
+          "label": "Week 29",
+          "value": 150
+        },
+        {
+          "label": "Week 30",
+          "value": 155
+        },
+        {
+          "label": "Week 31",
+          "value": 100
+        },
+        {
+          "label": "Week 32",
+          "value": 110
+        },
+        {
+          "label": "Week 33",
+          "value": 120
+        },
+        {
+          "label": "Week 34",
+          "value": 130
+        },
+        {
+          "label": "Week 35",
+          "value": 140
+        },
+        {
+          "label": "Week 36",
+          "value": 150
+        },
+        {
+          "label": "Week 37",
+          "value": 110
+        },
+        {
+          "label": "Week 38",
+          "value": 130
+        },
+        {
+          "label": "Week 39",
+          "value": 150
+        },
+        {
+          "label": "Week 40",
+          "value": 140
+        },
+        {
+          "label": "Week 41",
+          "value": 100
+        },
+        {
+          "label": "Week 42",
+          "value": 110
+        },
+        {
+          "label": "Week 43",
+          "value": 120
+        },
+        {
+          "label": "Week 44",
+          "value": 130
+        },
+        {
+          "label": "Week 45",
+          "value": 140
+        },
+        {
+          "label": "Week 46",
+          "value": 150
+        },
+        {
+          "label": "Week 47",
+          "value": 110
+        },
+        {
+          "label": "Week 48",
+          "value": 130
+        },
+        {
+          "label": "Week 49",
+          "value": 150
+        },
+        {
+          "label": "Week 50",
+          "value": 140
+        },
+        {
+          "label": "Week 51",
+          "value": 100
+        },
+        {
+          "label": "Week 52",
+          "value": 110
+        }
+      ]
+    },
+  
+    "modal": {
+      "chart-modal": {
+        "id": "basic-bubble"
+      },
+      "xaxis": {
+        "categories": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sept",
+          "Oct",
+          "Nov",
+          "Dec"
+        ]
+      },
+  
+      "series": [
+        {
+          "name": "series-1",
+          "data": [27632, 27632, 27632]
+        }
+      ]
+    },
+  
+    "earning-chart": {
+      "earning-1": {
+        "Total earning": 12875,
+        "increse": 2,
+        "Compared": 21504,
+  
+        "Presentation": 862,
+        "Devlopment": 753,
+        "Research": 553
+      },
+      "earning-2": {
+        "Sales": 43123,
+        "increse": 12,
+        "Compared to": 21490,
+  
+        "Travel": 760,
+        "Travel+": 2540,
+        "Presentation": 650,
+        "Presentation-": 2340,
+        "Business": 612,
+        "Business+": 2140
+      }
+    },
+  
+    "Bubble-chart": {
+      "months": 3,
+  
+      "Intvestment": 76644,
+      "Finance": 23657,
+      "Devlopment": 31657,
+      "Business": 21987,
+      "Design": 32982,
+  
+      "TREND GOODS": 204,
+      "SHOPPING VIEWS": 65540,
+      "STORE DYNAMIC": 324
+    }
+  }
+  

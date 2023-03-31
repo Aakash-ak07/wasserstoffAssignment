@@ -1,0 +1,97 @@
+.dashBoard__right {
+    position: absolute;
+    left: 20.83%;
+    right: 0%;
+    top: 8%;
+    bottom: 3.52%;
+    border-radius: 73px 0px 0px 73px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eef1fa;
+}
+
+.timeline {
+    display: flex;
+}
+
+.dashBoard__right-parent__circle {
+    display: flex;
+    background: transparent;
+    margin-top: 25px;
+    width: 360px;
+    height: 360px;
+    border: 15px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.time-period {
+    height: 5.2vh;
+    width: 270px;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: -35px;
+    margin-left: 1rem;
+}
+
+.time-period :nth-child(3) {
+    background-color: #3247E6;
+    border-radius: 16px;
+    padding: 3px;
+    height: 24px;
+    width: 30px;
+}
+
+.dashBoard__right-child__circle {
+    background: white;
+    width: 315px;
+    height: 315px;
+    border-radius: 50%;
+
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07),
+        0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198),
+        0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275),
+        0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035),
+        0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725),
+        0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+}
+
+.dashBoard__right-informer {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bubble-bottom-name {
+    color: #383874;
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 10px;
+    padding-top: 4px;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+
+.bubble-bottom-value {
+    color: #383874;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 5px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.pink {
+    height: 120px;
+    width: 120px;
+    background: radial-gradient(#ffe3d3 5%, #d14dd3 65%);
+    border-radius: 50%;
+    justify-content: center;
+}
